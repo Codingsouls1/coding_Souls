@@ -1,0 +1,23 @@
+.carousel-item{
+    height: 700px;
+}
+.carousel-item > img{
+    width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+    .carousel-item {
+      height: 200px;
+    }
+  }
+
+.Objective{
+    color: rgb(100, 100, 190);
+    font-weight: 900;
+    font-size: 2rem;
+}
+
+.Vision{
+    color: rgb(100, 100, 190);
+    font-weight: 900;
+}

@@ -1,0 +1,11 @@
+@media only screen and (min-width: 1200px) {
+    .Header_img{
+      width: 300px;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .Header_img{
+      width: 90%;
+    }
+  }
