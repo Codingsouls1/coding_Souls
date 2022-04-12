@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/coding_Souls/static/css/main.c19fda9d.chunk.css",
+    "main.js": "/coding_Souls/static/js/main.6ce7da15.chunk.js",
+    "main.js.map": "/coding_Souls/static/js/main.6ce7da15.chunk.js.map",
+    "runtime-main.js": "/coding_Souls/static/js/runtime-main.668cd4d6.js",
+    "runtime-main.js.map": "/coding_Souls/static/js/runtime-main.668cd4d6.js.map",
+    "static/css/2.c2ff17f5.chunk.css": "/coding_Souls/static/css/2.c2ff17f5.chunk.css",
+    "static/js/2.5e7f2996.chunk.js": "/coding_Souls/static/js/2.5e7f2996.chunk.js",
+    "static/js/2.5e7f2996.chunk.js.map": "/coding_Souls/static/js/2.5e7f2996.chunk.js.map",
+    "index.html": "/coding_Souls/index.html",
+    "static/css/2.c2ff17f5.chunk.css.map": "/coding_Souls/static/css/2.c2ff17f5.chunk.css.map",
+    "static/css/main.c19fda9d.chunk.css.map": "/coding_Souls/static/css/main.c19fda9d.chunk.css.map",
+    "static/js/2.5e7f2996.chunk.js.LICENSE.txt": "/coding_Souls/static/js/2.5e7f2996.chunk.js.LICENSE.txt",
+    "static/js/main.6ce7da15.chunk.js.LICENSE.txt": "/coding_Souls/static/js/main.6ce7da15.chunk.js.LICENSE.txt",
+    "static/media/codinsoulslogo-removebg-preview.png": "/coding_Souls/static/media/codinsoulslogo-removebg-preview.83000708.png",
+    "static/media/all.min.css": "/coding_Souls/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/nucleo.css": "/coding_Souls/static/media/nucleo-icons.d6a66724.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.668cd4d6.js",
+    "static/css/2.c2ff17f5.chunk.css",
+    "static/js/2.5e7f2996.chunk.js",
+    "static/css/main.c19fda9d.chunk.css",
+    "static/js/main.6ce7da15.chunk.js"
+  ]
+}

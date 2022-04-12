@@ -1,5 +1,6 @@
 {
   "name": "argon-dashboard-pro-react",
+  "homepage": "https://Codingsouls1.github.io/coding_Souls",
   "version": "1.2.1",
   "private": true,
   "dependencies": {
@@ -14,6 +15,7 @@
     "chart.js": "2.9.4",
     "classnames": "2.3.1",
     "dropzone": "5.9.2",
+    "gh-pages": "^3.2.3",
     "list.js": "2.3.1",
     "moment": "2.29.1",
     "node-sass": "6.0.1",
@@ -49,6 +51,8 @@
     "validator": "^13.7.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
     "test": "react-scripts test",
